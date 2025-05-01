@@ -15,11 +15,7 @@ function App() {
 
         I am working on AWS.
 
-        CI/CD 
-
-        Pipeline 
-
-        Docker and Container 
+        
         <a
           className="App-link"
           href="https://reactjs.org"
