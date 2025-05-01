@@ -9,6 +9,17 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        My name is hamza Ali
+
+        I am Devops developer 
+
+        I am working on AWS.
+
+        CI/CD 
+
+        Pipeline 
+
+        Docker and Container 
         <a
           className="App-link"
           href="https://reactjs.org"
