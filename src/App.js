@@ -15,6 +15,12 @@ function App() {
 
         I am working on AWS.
 
+
+
+        CI/CD Pipeline
+
+        Docker Container Image Kubernetes Github Git Jesion Network
+
         
         <a
           className="App-link"
